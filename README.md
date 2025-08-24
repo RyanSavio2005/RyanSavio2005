@@ -23,6 +23,9 @@ I’m always experimenting — from AI-powered apps to creative Java GUIs, and e
 
 **Other:** Git, VS Code, IntelliJ, Docker 
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-1F8ACB?style=flat&logo=openjdk&logoColor=white)
@@ -46,11 +49,20 @@ I’m always experimenting — from AI-powered apps to creative Java GUIs, and e
  
 
  🌐 Connect with Me
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ryan-savio-sequeira-6a01ba359/))  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?logo=github)](https://github.com/RyanSavio2005)  
 
  
 📧 **Email:** ryansaviosequeira@gmail.com
+
+
+🎮 Interests
+
+![Gaming](https://img.shields.io/badge/Gaming-🎮-blueviolet)
+![PC Gamer](https://img.shields.io/badge/PC-Gamer-red?logo=steam)
+![PlayStation](https://img.shields.io/badge/PlayStation-005CA0?logo=playstation&logoColor=white)
+![Xbox](https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white)
 
 
 
