@@ -15,8 +15,11 @@ I’m always experimenting — from AI-powered apps to creative Java GUIs, and e
 
  🛠️ Tech Stack
 **Languages:** Java, Python, C++
+
 **Frameworks & Tools:** Spring Boot, Flutter, Streamlit, OpenGL, JavaFX, Swing  
+
 **Databases:** MySQL, MongoDB  
+
 **Other:** Git, VS Code, IntelliJ, Docker  
 
 
