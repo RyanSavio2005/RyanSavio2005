@@ -21,7 +21,12 @@ I’m always experimenting — from AI-powered apps to creative Java GUIs, and e
 
 **Databases:** MySQL, MongoDB  
 
-**Other:** Git, VS Code, IntelliJ, Docker  
+**Other:** Git, VS Code, IntelliJ, Docker 
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-1F8ACB?style=flat&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java-Swing-007396?style=flat&logo=java&logoColor=white) 
 
 
 
@@ -37,11 +42,13 @@ I’m always experimenting — from AI-powered apps to creative Java GUIs, and e
  📊 GitHub Stats
  
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanSavio2005&show_icons=true&theme=radical)  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanSavio2005&layout=compact&theme=radical)
  
 
  🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ryan-savio-sequeira-6a01ba359/))  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?logo=github)](https://github.com/RyanSavio2005)  
+
  
 📧 **Email:** ryansaviosequeira@gmail.com
 
