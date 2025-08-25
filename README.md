@@ -56,6 +56,9 @@ I’m always experimenting — from AI-powered apps to creative Java GUIs, and e
  
 📧 **Email:** ryansaviosequeira@gmail.com
 
+![GitHub metrics](https://raw.githubusercontent.com/YourUsername/YourUsername/main/github-metrics.svg)
+
+
 
 🎮 Interests
 
