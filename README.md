@@ -57,7 +57,7 @@ I’m always experimenting — from AI-powered apps to creative Java GUIs, and e
 📧 **Email:** ryansaviosequeira@gmail.com
 
 
-![GitHub metrics](https://raw.githubusercontent.com/RyanSavio2005/RyanSavio2005/main/github-metrics.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RyanSavio2005&theme=github-compact)](https://github.com/RyanSavio2005)
 
 
 
