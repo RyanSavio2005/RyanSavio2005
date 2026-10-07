@@ -90,9 +90,6 @@ A Streamlit-based application for collecting and analyzing YouTube metadata, wit
 
 ---
 
-## 📊 GitHub Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RyanSavio2005\&theme=github-compact)](https://github.com/RyanSavio2005)
 
 ---
 
